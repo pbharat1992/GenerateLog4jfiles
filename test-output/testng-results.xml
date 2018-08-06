@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48724" started-at="2018-07-09T06:23:34Z" finished-at="2018-07-09T06:24:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48724" started-at="2018-07-09T06:23:34Z" finished-at="2018-07-09T06:24:22Z">
+      <class name="com.log4jtest.Log4jTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.log4jtest.Log4jTest@13a5fe33]" name="setUp" is-config="true" duration-ms="26668" started-at="2018-07-09T06:23:34Z" finished-at="2018-07-09T06:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="freeCrmTitleTest()[pri:1, instance:com.log4jtest.Log4jTest@13a5fe33]" name="freeCrmTitleTest" duration-ms="48" started-at="2018-07-09T06:24:00Z" finished-at="2018-07-09T06:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCrmTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.log4jtest.Log4jTest@13a5fe33]" name="tearDown" is-config="true" duration-ms="904" started-at="2018-07-09T06:24:01Z" finished-at="2018-07-09T06:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.log4jtest.Log4jTest@13a5fe33]" name="setUp" is-config="true" duration-ms="20207" started-at="2018-07-09T06:24:01Z" finished-at="2018-07-09T06:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="freemCRMLogoTest()[pri:2, instance:com.log4jtest.Log4jTest@13a5fe33]" name="freemCRMLogoTest" duration-ms="88" started-at="2018-07-09T06:24:22Z" finished-at="2018-07-09T06:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freemCRMLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.log4jtest.Log4jTest@13a5fe33]" name="tearDown" is-config="true" duration-ms="717" started-at="2018-07-09T06:24:22Z" finished-at="2018-07-09T06:24:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.log4jtest.Log4jTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

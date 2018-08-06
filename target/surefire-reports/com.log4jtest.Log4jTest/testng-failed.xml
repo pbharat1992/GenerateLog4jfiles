@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.log4jtest.Log4jTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.log4jtest.Log4jTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="freeCrmTitleTest"/>
+          <include name="tearDown"/>
+          <include name="freemCRMLogoTest"/>
+        </methods>
+      </class> <!-- com.log4jtest.Log4jTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.log4jtest.Log4jTest] -->

@@ -1,0 +1,22 @@
+2018-07-09 11:53:34,332  INFO [main] Log4jTest:31 - ***********************Starting test case execution****************************
+2018-07-09 11:53:44,396  INFO [main] Log4jTest:35 - launching chrome browser
+2018-07-09 11:54:00,957  INFO [main] Log4jTest:44 - enter application url
+2018-07-09 11:54:00,957  WARN [main] Log4jTest:45 - enter a warning message
+2018-07-09 11:54:00,959 FATAL [main] Log4jTest:46 - this is fatal error messag
+2018-07-09 11:54:00,960 DEBUG [main] Log4jTest:47 - this is debug message
+2018-07-09 11:54:00,980  INFO [main] Log4jTest:57 - ***********************Starting test case****************************
+2018-07-09 11:54:00,984  INFO [main] Log4jTest:58 - ***********************Free Title Test***************************
+2018-07-09 11:54:01,008  INFO [main] Log4jTest:63 - ***********************ending test case****************************
+2018-07-09 11:54:01,008  INFO [main] Log4jTest:64 - ***********************Free CRM Title Test***************************
+2018-07-09 11:54:01,020  INFO [main] Log4jTest:82 - ***********************browser is closed****************************
+2018-07-09 11:54:01,928  INFO [main] Log4jTest:31 - ***********************Starting test case execution****************************
+2018-07-09 11:54:05,095  INFO [main] Log4jTest:35 - launching chrome browser
+2018-07-09 11:54:22,128  INFO [main] Log4jTest:44 - enter application url
+2018-07-09 11:54:22,132  WARN [main] Log4jTest:45 - enter a warning message
+2018-07-09 11:54:22,133 FATAL [main] Log4jTest:46 - this is fatal error messag
+2018-07-09 11:54:22,135 DEBUG [main] Log4jTest:47 - this is debug message
+2018-07-09 11:54:22,143  INFO [main] Log4jTest:69 - ***********************Starting test case****************************
+2018-07-09 11:54:22,147  INFO [main] Log4jTest:70 - ***********************Free CRM Logo Test***************************
+2018-07-09 11:54:22,223  INFO [main] Log4jTest:74 - ***********************ending test case****************************
+2018-07-09 11:54:22,223  INFO [main] Log4jTest:75 - ***********************Free CRM Logo Test***************************
+2018-07-09 11:54:22,227  INFO [main] Log4jTest:82 - ***********************browser is closed****************************
